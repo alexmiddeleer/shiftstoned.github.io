@@ -1,0 +1,22 @@
+{
+  "name": "shiftstoned",
+  "version": "1.0.0",
+  "description": "A fan-built site hosting player resources for Eternal, a Strategy Card Game",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiftstoned/shiftstoned.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shiftstoned/shiftstoned.github.io/issues"
+  },
+  "homepage": "https://www.shiftstoned.com/"
+}
